@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.VOTRE-DOMAINE.fr/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://www.VOTRE-DOMAINE.fr/" />
+    <image:image>
+      <image:loc>https://www.VOTRE-DOMAINE.fr/images/the-bradery-code-promo.jpg</image:loc>
+      <image:title>Code parrainage The Bradery : 15€ offerts sur ta première commande</image:title>
+    </image:image>
+  </url>
+</urlset>
